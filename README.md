@@ -1,6 +1,6 @@
 
 
-<h1><strong>Hi, I'm <a href="">Darshan</a></strong> <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
+<h1><strong>Hi, I'm <a href="">Prathik</a></strong> <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
 
 <div align="left"> 
     <img src="https://komarev.com/ghpvc/?username=darshan-shinde" alt="darshan-shinde"> 
@@ -68,7 +68,7 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
 <hr>
 <br>
 <div >
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=darshan-shinde&count_private=true&show_icons=true&theme=algolia"  width="400px" alt="darshan-shinde">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pratik8279&count_private=true&show_icons=true&theme=algolia"  width="400px" alt="darshan-shinde">
     &nbsp;&nbsp;
     &nbsp;&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-shinde&layout=compact&theme=algolia"  width="395px" alt="darshan-shinde"> &nbsp;&nbsp;&nbsp;&nbsp;
