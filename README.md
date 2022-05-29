@@ -1,9 +1,9 @@
 
 
-<h1><strong>Hi, I'm <a href="">Prathik</a></strong> <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
+<h1><strong>Hi, I'm <a href="">Pratik</a></strong> <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
 
 <div align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=darshan-shinde" alt="darshan-shinde"> 
+    <img src="https://komarev.com/ghpvc/?username=Pratik8279" alt="darshan-shinde"> 
 </div>
 
 <h1 align="center"><em>Full-stack Web Developer </em></h1>
@@ -16,8 +16,6 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
 <h3>🚀 Some things you should know 👇</h3>
 <ul>
 <li>👨‍💻 I'm currently a <em>Full Stack Web Developer</em>.</li>
-<!-- <li>👨‍🔬 I'm working as a <em>Research Data Scientist</em> for <strong>US Department of Agriculture</strong>.</li> -->
-<li>☁  Worked as a <em>CT/MRI Service Engineer</em> at <strong>Sanrad Medical System</strong> for 10 months.</li>
 <li>👨‍🎓 Learning every day. I believe sharing is the best way of learning.</li>
 </ul>
 <hr>
@@ -43,7 +41,7 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
 
 <!-- <img align="right" src="https://www.freepik.com/free-vector/flat-creativity-concept-illustration_14620625.htm#query=illustrations&position=0&from_view=search" width="300px" height="180px"> -->
 
-<h3>🦄 While I am not doing Coding 😉</h3>
+<h3>🦄 When I am not doing Coding 😉</h3>
 <ul>
     <li>I love to Travel ✈️</li>
     <li>Watch a Movie 🤓</li>
@@ -55,20 +53,20 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
 
 <h3>How to reach me ✨</h3>
 <div>
-    <a href="https://www.linkedin.com/in/shinde-darshan/">
+    <a href="https://www.linkedin.com/in/pratik-paul-b26312201/">
         <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="30px">
     </a>&nbsp;&nbsp;
-    <a href="mailto: shindedarshan502@gmail.com@gmail.com">
+    <a href="mailto: paupratik6@gmail.com@gmail.com">
        <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="30px">
     </a>&nbsp;&nbsp;
-    <a href="https://github.com/darshan-shinde/">
+    <a href="https://github.com/Pratik8279">
        <img src="https://img.icons8.com/glyph-neue/64/4a90e2/github.png" width="30px">
     </a>&nbsp;&nbsp;
 </div>
 <hr>
 <br>
 <div >
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pratik8279&count_private=true&show_icons=true&theme=algolia"  width="400px" alt="darshan-shinde">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pratik8279&count_private=true&show_icons=true&theme=algolia"  width="400px" alt="Pratik Paul">
     &nbsp;&nbsp;
     &nbsp;&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-shinde&layout=compact&theme=algolia"  width="395px" alt="darshan-shinde"> &nbsp;&nbsp;&nbsp;&nbsp;
