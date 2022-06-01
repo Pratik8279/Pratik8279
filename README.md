@@ -3,7 +3,7 @@
 <h1><strong>Hi, I'm <a href="">Pratik</a></strong> <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
 
 <div align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=Pratik8279" alt="darshan-shinde"> 
+    <img src="https://komarev.com/ghpvc/?username=Pratik8279" alt="Pratik Paul"> 
 </div>
 
 <h1 align="center"><em>Full-stack Web Developer </em></h1>
@@ -66,12 +66,12 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
 <hr>
 <br>
 <div >
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pratik8279&count_private=true&show_icons=true&theme=algolia"  width="400px" alt="Pratik Paul">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pratik8279&count_private=true&show_icons=true&theme=algolia"  width="400px" alt="Pratik-Paul">
     &nbsp;&nbsp;
     &nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-shinde&layout=compact&theme=algolia"  width="395px" alt="darshan-shinde"> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik8279&layout=compact&theme=algolia"  width="395px" alt="Pratik-Paul"> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <br>
 <div >
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshan-shinde&layout=compact&theme=algolia" width="400px" alt="darshan-shinde" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik8279&layout=compact&theme=algolia" width="400px" alt="Pratik-Paul" />
 </div>
