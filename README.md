@@ -1,6 +1,6 @@
 
 
-<h1><strong>Hi, I'm <a href="">Pratik</a></strong> <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
+<h1><strong>Hi, I'm <a href="">Pratik</a></strong> <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif"height= "40px" width="28px"></h1>
 
 <div align="left"> 
     <img src="https://komarev.com/ghpvc/?username=Pratik8279" alt="Pratik"> 
@@ -73,5 +73,5 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
 </div>
 <br>
 <div >
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik8279&layout=compact&theme=algolia" width="400px" alt="Pratik" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=Pratik8279&layout=compact&theme=algolia" width="400px" alt="Pratik" />
 </div>
