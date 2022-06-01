@@ -73,5 +73,5 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
 </div>
 <br>
 <div >
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=Pratik8279&layout=compact&theme=algolia" width="400px" alt="Pratik" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik8279&layout=compact&theme=algolia" width="400px" alt="Pratik" />
 </div>
