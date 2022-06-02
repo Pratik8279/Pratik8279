@@ -69,7 +69,7 @@ Transitioned from Bio-Medical Service Engineer to a Web Developer to help compan
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pratik8279&count_private=true&show_icons=true&theme=algolia"  width="400px" alt="Pratik Paul">
     &nbsp;&nbsp;
     &nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-shinde&layout=compact&theme=algolia"  width="395px" alt="Pratik"> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik8279&layout=compact&theme=algolia"  width="395px" alt="Pratik"> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <br>
 <div >
